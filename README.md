@@ -2,6 +2,8 @@
 Personal list of my favourite open source software that I frequently use, lots of it on a daily basis. 
 From default to oddly specific.
 
+I shall format this list better in the future
+
 ### FAQ
 Q: WhY WiNdOwS? A: Yes. 
 
