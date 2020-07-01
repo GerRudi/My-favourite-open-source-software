@@ -61,6 +61,7 @@ Source: https://www.videolan.org/vlc/download-sources.html
 
 ### Video Downloader: Youtube-DL GUI
 Does a LOT more than just YouTube
+
 Website: https://mrs0m30n3.github.io/youtube-dl-gui/
 Source: https://github.com/MrS0m30n3/youtube-dl-gui
 
@@ -75,60 +76,74 @@ Source: https://www.7-zip.org/download.html
 # FireFox Plugins
 ### Darkreader
 Darkmode everywhere.
+
 Store: https://addons.mozilla.org/en-US/firefox/addon/darkreader/
 Website: https://darkreader.org/
 Source: https://github.com/darkreader/darkreader
 
 
-### google-no-tracking-url
+### google-no-tracking-url | Google Redirects Fixer & Tracking Remover
 Self titled.
-Website: 
-Source: 
+
+Store: https://addons.mozilla.org/en-US/firefox/addon/google-no-tracking-url/
+Website: http://matagus.github.io/remove-google-redirects-addon/
+Source: https://github.com/matagus/remove-google-redirects-addon
 
 ### Highlight or Hide Search Engine Results 
 Self titled. Hide Pinterest from your search results, highlight stackoverflow, ...
-Website: 
-Source: 
+
+Store: https://addons.mozilla.org/en-US/firefox/addon/hohser/
+Website: https://github.com/pistom/hohser
+Source: https://github.com/pistom/hohser
 
 ### Iridium for YouTube
 Youtube the way it should be
-Website: 
-Source: 
+Store: No Github - Details at https://github.com/ParticleCore/Iridium/wiki/Download
+Website: https://github.com/ParticleCore/Iridium
+Source: https://github.com/ParticleCore/Iridium
 
 ### Mind the Time
 In case you ever want to track your Website usage
-Website: 
-Source: 
+Store: https://addons.mozilla.org/en-US/firefox/addon/mind-the-time/
+Website: https://github.com/PaulMorris/mind-the-time
+Source: https://github.com/PaulMorris/mind-the-time
 
 ### Neat URL
 Remove garbage from URLs.
-Website: 
-Source: 
+Store: https://addons.mozilla.org/en-US/firefox/addon/neat-url/
+Website: https://github.com/Smile4ever/Neat-URL/
+Source: https://github.com/Smile4ever/Neat-URL/
 
 ### Reddit Enhancement Suite
 Better (old) Reddit
-Website: 
-Source: 
+Store: https://addons.mozilla.org/en-US/firefox/addon/reddit-enhancement-suite/
+Website: https://redditenhancementsuite.com/
+Source: https://github.com/honestbleeps/Reddit-Enhancement-Suite
 
 ### Smart Referer
 Send http referer only on the same domain
-Website: 
-Source: 
+Store: https://addons.mozilla.org/firefox/addon/smart-referer/?src=external-gitlab
+Website: https://gitlab.com/smart-referrer/smart-referer
+Source: https://gitlab.com/smart-referrer/smart-referer
 
 ### Tampermonkey
 For all kinds of userscripts
-Website: 
-Source: 
+** Only OSS until v2.9!
+Store: -
+Website: https://www.tampermonkey.net/
+Source: https://github.com/Tampermonkey/tampermonkey
 
 ### uBlock Origin
 Go-to Ad-Blocker
-Website: 
-Source: 
+Store: https://addons.mozilla.org/addon/ublock-origin/
+Website: https://github.com/gorhill/uBlock#ublock-origin
+Source: https://github.com/gorhill/uBlock#ublock-origin
 
 ### uMatrix
 Block scripts on websites, I like the UI a lot more than NoScript
-Website: 
-Source: 
+Store: https://addons.mozilla.org/firefox/addon/umatrix/
+Website: https://github.com/gorhill/uMatrix
+Source: https://github.com/gorhill/uMatrix
 
 
 
