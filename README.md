@@ -166,7 +166,7 @@ Source: https://github.com/ytdl-org/youtube-dl/
 
 - 2048 ([F-Droid](https://f-droid.org/en/packages/org.secuso.privacyfriendly2048/))
 - Simple Solitaire Collection ([F-Droid](https://f-droid.org/en/packages/de.tobiasbielefeld.solitaire/))
-- Sudoku (F-Droid]([https://f-droid.org/en/packages/org.secuso.privacyfriendlysudoku/))
+- Sudoku ([F-Droid](https://f-droid.org/en/packages/org.secuso.privacyfriendlysudoku/))
 - Puzzles (mainly for a Version of Minesweeper with no guessing!) ([F-Droid](https://f-droid.org/en/packages/name.boyle.chris.sgtpuzzles/))
 
 ## Social
@@ -201,7 +201,7 @@ There are dozens of KeePass Clients out there though
 ### Backup Tool: OAndBackupX ([F-Droid](https://f-droid.org/en/packages/com.machiav3lli.backup/))
 In dev...
 
-### Memorize digits of PI: PI Trainer (Currently only on Google Play, (Source)[https://github.com/teinvdlugt/PiTrainer))
+### Memorize digits of PI: PI Trainer (Currently only on Google Play, ([Source](https://github.com/teinvdlugt/PiTrainer))
 Cause why not
 
 ### Reddit Client: Slide for Reddit ([F-Droid](https://f-droid.org/en/packages/me.ccrama.redditslide/))
