@@ -165,56 +165,56 @@ Source: https://github.com/ytdl-org/youtube-dl/
 ## Games
 
 - 2048 ([F-Droid](https://f-droid.org/en/packages/org.secuso.privacyfriendly2048/))
-- Simple Solitaire Collection ((F-Droid)[https://f-droid.org/en/packages/de.tobiasbielefeld.solitaire/])
-- Sudoku ((F-Droid)[https://f-droid.org/en/packages/org.secuso.privacyfriendlysudoku/])
-- Puzzles (mainly for a Version of Minesweeper with no guessing!) ((F-Droid)[https://f-droid.org/en/packages/name.boyle.chris.sgtpuzzles/])
+- Simple Solitaire Collection ([F-Droid](https://f-droid.org/en/packages/de.tobiasbielefeld.solitaire/))
+- Sudoku (F-Droid]([https://f-droid.org/en/packages/org.secuso.privacyfriendlysudoku/))
+- Puzzles (mainly for a Version of Minesweeper with no guessing!) ([F-Droid](https://f-droid.org/en/packages/name.boyle.chris.sgtpuzzles/))
 
 ## Social
 
-### YouTube Client and Downloader: NewPipe ((F-Droid)[https://f-droid.org/en/packages/org.schabi.newpipe/])
+### YouTube Client and Downloader: NewPipe ([F-Droid](https://f-droid.org/en/packages/org.schabi.newpipe/))
 
-### Facebook Wrapper: Frost for Facebook ((F-Droid)[https://f-droid.org/en/packages/com.pitchedapps.frost/])
+### Facebook Wrapper: Frost for Facebook ([F-Droid](https://f-droid.org/en/packages/com.pitchedapps.frost/))
 
 ## Tools
-### File Explorer: Amaze ((F-Droid)[https://f-droid.org/en/packages/com.amaze.filemanager/]
+### File Explorer: Amaze ([F-Droid](https://f-droid.org/en/packages/com.amaze.filemanager/))
 
-### Barcode / QR Scanner: Barcode Scanner ((F-Droid)[https://f-droid.org/en/packages/com.google.zxing.client.android/]
+### Barcode / QR Scanner: Barcode Scanner ([F-Droid](https://f-droid.org/en/packages/com.google.zxing.client.android/))
 
-### Calendar: Simple Calendar ((F-Droid)[https://f-droid.org/en/packages/com.simplemobiletools.calendar.pro/])
+### Calendar: Simple Calendar ([F-Droid](https://f-droid.org/en/packages/com.simplemobiletools.calendar.pro/))
 
-### List Disk usage: DiskUsage ((F-Droid)[https://f-droid.org/en/packages/com.google.android.diskusage/])
+### List Disk usage: DiskUsage ([F-Droid](https://f-droid.org/en/packages/com.google.android.diskusage/))
 
-### Browser: FireFox Klar ((F-Droid)[https://f-droid.org/en/packages/org.mozilla.klar/])
+### Browser: FireFox Klar ([F-Droid](https://f-droid.org/en/packages/org.mozilla.klar/))
 
-### Gallery: Simple Gallery ((F-Droid)[https://f-droid.org/en/packages/com.simplemobiletools.gallery.pro/])
+### Gallery: Simple Gallery ([F-Droid](https://f-droid.org/en/packages/com.simplemobiletools.gallery.pro/))
 
-### Connect phone to Computer: KDE Connect (Also available on Windows!) ((F-Droid)[https://f-droid.org/en/packages/org.kde.kdeconnect_tp/])
+### Connect phone to Computer: KDE Connect (Also available on Windows!) ([F-Droid](https://f-droid.org/en/packages/org.kde.kdeconnect_tp/))
 Includes neat features like "Share clipboard"
 
-### KeePass Mobile Client: KeePass DX ((F-Droid)[https://f-droid.org/en/packages/com.kunzisoft.keepass.libre/])
+### KeePass Mobile Client: KeePass DX ([F-Droid](https://f-droid.org/en/packages/com.kunzisoft.keepass.libre/))
 There are dozens of KeePass Clients out there though
 
-### eBook Reader: KOReader ((F-Droid)[https://f-droid.org/en/packages/org.koreader.launcher/])
+### eBook Reader: KOReader ([F-Droid](https://f-droid.org/en/packages/org.koreader.launcher/))
 
-### PDF Viewer: MuPDF Viewer ((F-Droid)[https://f-droid.org/en/packages/com.artifex.mupdf.viewer.app/])
+### PDF Viewer: MuPDF Viewer ([F-Droid](https://f-droid.org/en/packages/com.artifex.mupdf.viewer.app/))
 
-### Backup Tool: OAndBackupX ((F-Droid)[https://f-droid.org/en/packages/com.machiav3lli.backup/])
+### Backup Tool: OAndBackupX ([F-Droid](https://f-droid.org/en/packages/com.machiav3lli.backup/))
 In dev...
 
-### Memorize digits of PI: PI Trainer (Currently only on Google Play, (Source)[https://github.com/teinvdlugt/PiTrainer]
+### Memorize digits of PI: PI Trainer (Currently only on Google Play, (Source)[https://github.com/teinvdlugt/PiTrainer))
 Cause why not
 
-### Reddit Client: Slide for Reddit ((F-Droid)[https://f-droid.org/en/packages/me.ccrama.redditslide/])
+### Reddit Client: Slide for Reddit ([F-Droid](https://f-droid.org/en/packages/me.ccrama.redditslide/))
 
-### Find free WiFI Channels and stuff: WiFiAnalyzer ((F-Droid)[https://f-droid.org/en/packages/com.vrem.wifianalyzer/])
+### Find free WiFI Channels and stuff: WiFiAnalyzer ([F-Droid](https://f-droid.org/en/packages/com.vrem.wifianalyzer/))
 
-### DNS Based Ad-Blocker: Blokada v4 ((F-Droid)[https://f-droid.org/en/packages/org.blokada.alarm/])
+### DNS Based Ad-Blocker: Blokada v4 ([F-Droid](https://f-droid.org/en/packages/org.blokada.alarm/))
 
 ## Root Apps / Xposed modules
 I don't have a rooted device anymore so I can't really remember any of them... 
 
-- XPrivacyLua - Really simple to use privacy manager for Android ((F-Droid)[https://f-droid.org/en/packages/eu.faircode.xlua/])
-- AdAway - Ad Blocker using host files ((F-Droid)[https://f-droid.org/en/packages/org.adaway/])
+- XPrivacyLua - Really simple to use privacy manager for Android ([F-Droid](https://f-droid.org/en/packages/eu.faircode.xlua/))
+- AdAway - Ad Blocker using host files ([F-Droid](https://f-droid.org/en/packages/org.adaway/))
 
 # Other Tools
 This I may have used in the past, once - or other honorable mentions ...
