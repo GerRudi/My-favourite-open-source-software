@@ -13,108 +13,94 @@ Q: WhY WiNdOwS? A: Yes.
 
 ### Audio recording: Audacity
 
-Website: https://www.audacityteam.org/
-
-Source: https://github.com/audacity/audacity
+- Website: https://www.audacityteam.org/
+- Source: https://github.com/audacity/audacity
 
 
 ### Browser: Mozilla FireFox
 
-Website: https://www.mozilla.org/en-US/firefox/
+- Website: https://www.mozilla.org/en-US/firefox/
 
-Source: https://archive.mozilla.org/pub/firefox/
+- Source: https://archive.mozilla.org/pub/firefox/
 
 
 ### File Backup / Mirror external drives: FreeFileSync
 
-Website: https://freefilesync.org/
-
-Source: https://freefilesync.org/download.php
+- Website: https://freefilesync.org/
+- Source: https://freefilesync.org/download.php
 
 
 ### Flash (Pi) images to SD card: balenaEtcher
 
-Website: https://www.balena.io/etcher/
-
-Source: https://github.com/balena-io/etcher
+- Website: https://www.balena.io/etcher/
+- Source: https://github.com/balena-io/etcher
 
 
 ### Image editing: GIMP
 
-Website: https://www.gimp.org/
-
-Source: https://www.gimp.org/source/#gimp-source-code
+- Website: https://www.gimp.org/
+- Source: https://www.gimp.org/source/#gimp-source-code
 
 
 ### Image Viewer: ImageGlass
 
-Website: https://imageglass.org/
-
-Source: https://github.com/d2phap/ImageGlass
+- Website: https://imageglass.org/
+- Source: https://github.com/d2phap/ImageGlass
 
 
 ### Password Manager: KeePass
 
-Website: https://keepass.info/
-
-Source: https://keepass.info/download.html
+- Website: https://keepass.info/
+- Source: https://keepass.info/download.html
 
 
 ### Easily copy paths: Path Copy Copy
 
-Website: https://pathcopycopy.github.io/
-
-Source: https://github.com/clechasseur/pathcopycopy
+- Website: https://pathcopycopy.github.io/
+- Source: https://github.com/clechasseur/pathcopycopy
 
 
 ### Simple Text Editor: Notepad++
 
-Website: https://notepad-plus-plus.org/
-
-Source: https://github.com/notepad-plus-plus/notepad-plus-plus
+- Website: https://notepad-plus-plus.org/
+- Source: https://github.com/notepad-plus-plus/notepad-plus-plus
 
 
 ### Screen Recorder: OBS Studio
 
-Website: https://obsproject.com/
-
-Source: https://github.com/obsproject/obs-studio
+- Website: https://obsproject.com/
+- Source: https://github.com/obsproject/obs-studio
 
 
 ### PDF Reader: SumatraPDF
 
-Website: https://www.sumatrapdfreader.org
-
-Source: https://github.com/sumatrapdfreader/sumatrapdf
+- Website: https://www.sumatrapdfreader.org
+- Source: https://github.com/sumatrapdfreader/sumatrapdf
 
 
 ### Video Player: VLC Player
 
-Website: https://www.videolan.org/vlc/index.html
-
-Source: https://www.videolan.org/vlc/download-sources.html
+- Website: https://www.videolan.org/vlc/index.html
+- Source: https://www.videolan.org/vlc/download-sources.html
 
 
 ### Video Downloader: Youtube-DL GUI
 Does a LOT more than just YouTube
 
-Website: https://mrs0m30n3.github.io/youtube-dl-gui/
-
-Source: https://github.com/MrS0m30n3/youtube-dl-gui
+- Website: https://mrs0m30n3.github.io/youtube-dl-gui/
+- Source: https://github.com/MrS0m30n3/youtube-dl-gui
 
 
 ### Visualize Keystrokes (i.e. for streaming): NohBoard
 
-Website: https://github.com/ThoNohT/NohBoard
-
-Source: https://github.com/ThoNohT/NohBoard
+- Website: https://github.com/ThoNohT/NohBoard
+- Source: https://github.com/ThoNohT/NohBoard
 
 
 ### Zip-Tool: 7-Zip
 
-Website: https://www.7-zip.org/
-
-Source: https://www.7-zip.org/download.html
+- Website: https://www.7-zip.org/
+- Source: https://www.7-zip.org/download.html
 
 
 # FireFox Plugins
