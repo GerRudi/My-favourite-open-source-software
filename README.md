@@ -140,6 +140,12 @@ I don't have a rooted device anymore so I can't really remember any of them...
 - AdAway - Ad Blocker using host files
 
 # Other Tools
+This I may have used in the past, once - or other honorable mentions ...
+### DBAN
+Wipe old Hard Drives
+
+### PiHole
+Block DNS requests in your Home Network
 
 ### Spotify-dedup
 Remove playlist duplicates
