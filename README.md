@@ -20,7 +20,6 @@ Q: WhY WiNdOwS? A: Yes.
 ### Browser: Mozilla FireFox
 
 - Website: https://www.mozilla.org/en-US/firefox/
-
 - Source: https://archive.mozilla.org/pub/firefox/
 
 
