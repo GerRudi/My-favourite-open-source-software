@@ -1,5 +1,6 @@
 # My-favourite-open-source-software
 Personal list of my favourite open source software that I frequently use, lots of it on a daily basis. 
+From default to oddly specific.
 
 ### FAQ
 Q: WhY WiNdOwS? A: Yes. 
@@ -33,6 +34,8 @@ Q: WhY WiNdOwS? A: Yes.
 ### Video Player: VLC Player
 
 ### Video Downloader: Youtube-DL GUI
+
+### Visualize Keystrokes (i.e. for streaming): NohBoard
 
 ### Zip-Tool: 7-Zip
 
@@ -81,6 +84,49 @@ Do everything with videos. Cut, merge without re-encoding, create gifs, batch co
 ... I use youtube-dl GUI though, no hate
 
 # Android
+
+
+## Games
+
+- 2048
+- Simple Solitaire Collection
+- Sudoku
+- Puzzles (mainly for a Version of Minesweeper with no guessing!)
+
+## Tools
+### File Explorer: Amaze
+
+### Barcode / QR Scanner: Barcode Scanner
+
+### Calendar: Simple Calendar
+
+### List Disk usage: DiskUsage
+
+### Browser: FireFox
+
+### Gallery: Simple Gallery
+
+### Connect phone to Computer: KDE Connect (Also available on Windows!)
+Includes neat features like "Share clipboard"
+
+
+### KeePass Mobile Client: KeePass DX
+
+### eBook Reader: KOReader
+
+### PDF Viewer: MuPDF Viewer
+
+### YouTube Client and Downloader: NewPipe
+
+### Backup Tool: OAndBackupX
+In dev...
+
+### Memorize digits of PI: PI Trainer
+Cause why not
+
+### Reddit Client: Slide for Reddit
+
+### Find free WiFI Channels and stuff: WiFiAnalyzer
 
 
 
