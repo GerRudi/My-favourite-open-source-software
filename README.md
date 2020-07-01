@@ -250,29 +250,29 @@ I don't have a rooted device anymore so I can't really remember any of them...
 This I may have used in the past, once - or other honorable mentions ...
 ### DBAN
 Wipe old Hard Drives
-Website: 
-Source: 
+- Website: https://dban.org/
+- Source: https://sourceforge.net/projects/dban/files/dban/
 
 ### PiHole
 Block DNS requests in your Home Network
-Website: https://dban.org/
-Source: https://sourceforge.net/projects/dban/files/dban/
+- Website: https://dban.org/
+- Source: https://sourceforge.net/projects/dban/files/dban/
 
 ### Spotify-dedup
 Remove playlist duplicates
-Source: Spotify-dedup
+- Source: https://github.com/JMPerez/spotify-dedup
 
 ### smarttv-twitch
 A Twitch Client for Samsung Tizen TVs
-Source: https://github.com/fgl27/smarttv-twitch
+- Source: https://github.com/fgl27/smarttv-twitch
 
 ### Steam Achievement Manager
 In case a game did not give you the achievement
-Source: https://github.com/fgl27/smarttv-twitch
+- Source: https://github.com/fgl27/smarttv-twitch
 
 ### LMMS
 Music production software (DAW)
-Website: https://lmms.io/
-Source: https://github.com/LMMS/lmms
+- Website: https://lmms.io/
+- Source: https://github.com/LMMS/lmms
 
 
