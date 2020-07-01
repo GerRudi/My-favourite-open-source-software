@@ -1,5 +1,5 @@
 # My-favourite-open-source-software
-Personal list of my favourite open source software that I frequently use
+Personal list of my favourite open source software that I frequently use, lots of it on a daily basis. 
 
 ### FAQ
 Q: WhY WiNdOwS? A: Yes. 
@@ -21,6 +21,8 @@ Q: WhY WiNdOwS? A: Yes.
 ### Image Viewer: ImageGlass
 
 ### Password Manager: KeePass
+
+### Easily copy paths: Path Copy Copy
 
 ### Simple Text Editor: Notepad++
 
@@ -71,6 +73,12 @@ Block scripts on websites, I like the UI a lot more than NoScript
 
 
 # CMD Tools
+
+### ffmpeg
+Do everything with videos. Cut, merge without re-encoding, create gifs, batch convert videos, ...
+
+### youtube-dl
+... I use youtube-dl GUI though, no hate
 
 # Android
 
