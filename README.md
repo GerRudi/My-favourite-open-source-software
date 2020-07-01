@@ -93,6 +93,12 @@ Do everything with videos. Cut, merge without re-encoding, create gifs, batch co
 - Sudoku
 - Puzzles (mainly for a Version of Minesweeper with no guessing!)
 
+## Social
+
+### YouTube Client and Downloader: NewPipe
+
+### Facebook Wrapper: Frost for Facebook
+
 ## Tools
 ### File Explorer: Amaze
 
@@ -109,14 +115,11 @@ Do everything with videos. Cut, merge without re-encoding, create gifs, batch co
 ### Connect phone to Computer: KDE Connect (Also available on Windows!)
 Includes neat features like "Share clipboard"
 
-
 ### KeePass Mobile Client: KeePass DX
 
 ### eBook Reader: KOReader
 
 ### PDF Viewer: MuPDF Viewer
-
-### YouTube Client and Downloader: NewPipe
 
 ### Backup Tool: OAndBackupX
 In dev...
@@ -128,5 +131,26 @@ Cause why not
 
 ### Find free WiFI Channels and stuff: WiFiAnalyzer
 
+### DNS Based Ad-Blocker: Blokada v4
+
+## Root Apps / Xposed modules
+I don't have a rooted device anymore so I can't really remember any of them... 
+
+- XPrivacyLua - Really simple to use privacy manager for Android
+- AdAway - Ad Blocker using host files
+
+# Other Tools
+
+### Spotify-dedup
+Remove playlist duplicates
+
+### smarttv-twitch
+A Twitch Client for Samsung Tizen TVs
+
+### Steam Achievement Manager
+In case a game did not give you the achievement
+
+### LMMS
+Music production software
 
 
