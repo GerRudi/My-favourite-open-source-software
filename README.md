@@ -206,34 +206,43 @@ Cause why not
 
 ### Reddit Client: Slide for Reddit ((F-Droid)[https://f-droid.org/en/packages/me.ccrama.redditslide/])
 
-### Find free WiFI Channels and stuff: WiFiAnalyzer
+### Find free WiFI Channels and stuff: WiFiAnalyzer ((F-Droid)[https://f-droid.org/en/packages/com.vrem.wifianalyzer/])
 
-### DNS Based Ad-Blocker: Blokada v4
+### DNS Based Ad-Blocker: Blokada v4 ((F-Droid)[https://f-droid.org/en/packages/org.blokada.alarm/])
 
 ## Root Apps / Xposed modules
 I don't have a rooted device anymore so I can't really remember any of them... 
 
-- XPrivacyLua - Really simple to use privacy manager for Android
-- AdAway - Ad Blocker using host files
+- XPrivacyLua - Really simple to use privacy manager for Android ((F-Droid)[https://f-droid.org/en/packages/eu.faircode.xlua/])
+- AdAway - Ad Blocker using host files ((F-Droid)[https://f-droid.org/en/packages/org.adaway/])
 
 # Other Tools
 This I may have used in the past, once - or other honorable mentions ...
 ### DBAN
 Wipe old Hard Drives
+Website: 
+Source: 
 
 ### PiHole
 Block DNS requests in your Home Network
+Website: https://dban.org/
+Source: https://sourceforge.net/projects/dban/files/dban/
 
 ### Spotify-dedup
 Remove playlist duplicates
+Source: Spotify-dedup
 
 ### smarttv-twitch
 A Twitch Client for Samsung Tizen TVs
+Source: https://github.com/fgl27/smarttv-twitch
 
 ### Steam Achievement Manager
 In case a game did not give you the achievement
+Source: https://github.com/fgl27/smarttv-twitch
 
 ### LMMS
-Music production software
+Music production software (DAW)
+Website: https://lmms.io/
+Source: https://github.com/LMMS/lmms
 
 
